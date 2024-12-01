@@ -1,0 +1,66 @@
+body{
+
+    background-color:lightsalmon;
+    margin-top: 10px;
+    
+
+    
+}
+
+
+
+.navSide{
+
+    display: flex;
+    flex-direction: column ;
+    
+     justify-content: center;  
+}
+
+.navBar{
+
+    display: flex;
+    flex-direction: row ;
+    
+     justify-content: center;  
+}
+
+.navBar a{
+    padding-right: 300px;
+}
+
+
+.actionButton{
+
+    border-radius: 20px;
+    height: 20px;
+    background-color: rgb(234, 236, 84);
+}
+
+.table{
+
+    transform: scale(0.9);
+
+    width: 100vh;
+    height: auto;
+}
+
+.table td{
+    width: 100vh;
+
+    background-color: azure ;
+
+    border: 2px solid rgb(235, 243, 200);
+
+    padding: 10px;
+
+    border-radius: 40px;
+
+ 
+}
+
+.bookFace{
+    height: 300px;
+    width: 300px;
+}
+
